@@ -1,5 +1,5 @@
 # lottery.aleo
-
+discord \_heissenberg\_
 ## Run Guide
 
 To run this program, run:
